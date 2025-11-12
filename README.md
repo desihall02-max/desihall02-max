@@ -14,7 +14,6 @@ Captures moments through photography and videography with artistic perspective.
 Loves exploring with cosmetics to express personality and nostalgic imagination.
 Eager to expand skills into trades like drywall and HVAC.
 My goals for 2026: landing my dream job as a fashion analyst. Next 3 year goal: Building my dream house.
-Feel free to contact me on GitHub or LinkedIn
 
 </p><p align='left'> You can view my resume <a href='https://drive.google.com/drive/folders/1L5UL67hN0aM0LRDjznS3woNSHGLP7MWf?usp=drive_link ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
@@ -22,3 +21,5 @@ Feel free to contact me on GitHub or LinkedIn
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=desihall02-max&show_icons=true&include_all_commits=true)](https://github.com/desihall02-max/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desihall02-max&layout=compact)](https://github.com/desihall02-max/github-readme-stats)
+
+Feel free to contact me on GitHub or LinkedIn
