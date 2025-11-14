@@ -12,11 +12,13 @@ Some facts about me:
 A vibrant creative who paints bold visions and sews with style. Brings flavor and flair through cooking, singing, and dancing. Captures moments through photography and videography with artistic perspective. Loves exploring with cosmetics to express personality and nostalgic imagination. Eager to expand skills into trades like drywall and HVAC. My goals for 2026: landing my dream job as a fashion analyst. Next 3 year goal: Building my dream house.
 </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/desihall02-max/Data_projects_TripleTen.git](https://github.com/desihall02-max/Data_projects_TripleTen.git)
+- 👨‍💻 All of my projects are available at
+  [https://github.com/desihall02-max/Data_projects_TripleTen.git](https://github.com/desihall02-max/Data_projects_TripleTen.git)
 
 - 📫 How to reach me **desihall02@icloud.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1y4bDht6jU7RV7tWxfpzhQ1jJ6aQLSqgQkJ1JxVxlzk8/edit?usp=sharing](https://docs.google.com/document/d/1y4bDht6jU7RV7tWxfpzhQ1jJ6aQLSqgQkJ1JxVxlzk8/edit?usp=sharing)
+- 📄 Know about my experiences
+   [https://docs.google.com/document/d/1y4bDht6jU7RV7tWxfpzhQ1jJ6aQLSqgQkJ1JxVxlzk8/edit?usp=sharing](https://docs.google.com/document/d/1y4bDht6jU7RV7tWxfpzhQ1jJ6aQLSqgQkJ1JxVxlzk8/edit?usp=sharing)
 
 
  
